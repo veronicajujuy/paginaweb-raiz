@@ -17,13 +17,13 @@ export function Header() {
 
   return (
     <header className="sticky top-0 z-40 bg-crema/95 backdrop-blur-sm border-b border-oliva-deep/10">
-      <div className="max-w-6xl mx-auto px-5 sm:px-8 h-16 md:h-[72px] flex items-center justify-between gap-8">
+      <div className="max-w-6xl mx-auto px-5 sm:px-8 h-[72px] md:h-20 flex items-center justify-between gap-8">
         <a
           href="#inicio"
           aria-label="Raíz — Ir al inicio"
-          className="whitespace-nowrap shrink-0 rounded-md focus-visible:outline-2"
+          className="inline-flex items-center whitespace-nowrap shrink-0 rounded-md focus-visible:outline-2"
         >
-          <BrandMark />
+          <BrandMark size="header" />
         </a>
 
         <nav

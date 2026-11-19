@@ -53,9 +53,9 @@ export function Hero() {
 
           <div className="lg:col-span-6 flex">
             <ResilientImage
-              src="/src/assets/images/hero_viandas_caseras_1795114376623.jpg"
-              alt="Viandas semanales caseras de Raíz en envases de vidrio sobre mesa de madera, con pollo asado con hierbas, calabaza horneada, quinoa, verdes salteados y lentejas"
-              containerClassName="w-full rounded-2xl border border-oliva-deep/10 aspect-[4/3] lg:aspect-auto lg:min-h-[460px] lg:h-full"
+              src="/assets/aistudio/lNKhBLR0NjBop06CVSM3Wrm_Nm6jyFqaWxV_tG7YZWI36FRJkVbaK0MLc77jY5Kgl7MfC5qbdV6f6_Qjyy3MrwXTcVkvwlrK5ZlX8IyqqKrRpGNP7gfQAyWUpREi-78dnky3kInR1ArdxCCtHSuGOfx2V6Aj6g8R0CDlY-RBRmZhzoBvvsFruNrCxt4rR1lk_de8acb95.jpeg"
+              alt="Viandas caseras de Raíz con quinoa, vegetales asados de estación, brócoli, zucchini, morrón y palta fresca"
+              containerClassName="w-full rounded-2xl border border-oliva-deep/10 aspect-square sm:aspect-[4/3] lg:aspect-auto lg:min-h-[460px] lg:h-full"
               fallbackTitle="Viandas semanales caseras"
               priority
             />

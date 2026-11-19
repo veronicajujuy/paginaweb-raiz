@@ -10,8 +10,8 @@ export function Footer() {
       <div className="max-w-6xl mx-auto px-5 sm:px-8">
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 pb-8 border-b border-oliva-deep/10">
           <div className="space-y-2">
-            <a href="#inicio" className="inline-block">
-              <BrandMark />
+            <a href="#inicio" aria-label="Raíz — Volver arriba" className="inline-block">
+              <BrandMark size="footer" />
             </a>
             <p className="text-sm text-oliva-deep/75">
               Viandas semanales caseras · San Salvador de Jujuy
