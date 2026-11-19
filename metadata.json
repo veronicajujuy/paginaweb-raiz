@@ -1,0 +1,6 @@
+{
+  "name": "Raíz — Viandas caseras semanales",
+  "description": "Servicio de meal prep con viandas semanales caseras, ingredientes locales y de estación, opciones con proteína y alternativas veganas en San Salvador de Jujuy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
